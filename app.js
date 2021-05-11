@@ -4,7 +4,6 @@ const ejs = require("ejs");
 const mongoose = require("mongoose");
 const encrypt = require("mongoose-encryption");
 
-
 const app = express();
 const port = 3000;
 
