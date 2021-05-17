@@ -116,4 +116,4 @@ dist
 .pnp.*
 
 # Mac related
-DS_Store
+.DS_Store
